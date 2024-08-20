@@ -1,4 +1,4 @@
-# Correlation in Python-Data Analysis
+# Data Analysis-Correlation in Python
 
 ## Project Overview
 
